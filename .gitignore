@@ -1,4 +1,4 @@
 .DS_Store
-.VSCode/
+.vscode/
 [._]*.sw[a-p]
 vendor/
