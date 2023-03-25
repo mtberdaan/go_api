@@ -2,3 +2,4 @@
 .vscode/
 [._]*.sw[a-p]
 vendor/
+go_api
