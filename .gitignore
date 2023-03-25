@@ -1,0 +1,4 @@
+.DS_Store
+.VSCode/
+[._]*.sw[a-p]
+vendor/
