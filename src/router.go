@@ -1,4 +1,4 @@
-package go_api
+package main
 
 import (
 	"net/http"
