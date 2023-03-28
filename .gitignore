@@ -4,3 +4,5 @@
 vendor/
 go_api_app
 #*.yml
+
+config/
