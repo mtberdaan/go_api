@@ -2,7 +2,7 @@
 .vscode/
 [._]*.sw[a-p]
 vendor/
-go_api_app
+go_api
 #*.yml
 
 config/
