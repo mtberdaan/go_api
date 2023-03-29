@@ -5,4 +5,4 @@ vendor/
 go_api
 #*.yml
 
-config/
+src/
