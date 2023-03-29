@@ -3,6 +3,5 @@
 [._]*.sw[a-p]
 vendor/
 go_api
+src_old/
 #*.yml
-
-src/
